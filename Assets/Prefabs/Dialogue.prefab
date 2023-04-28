@@ -1,0 +1,214 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &808178541989974356
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 808178541989974358}
+  - component: {fileID: 808178541989974359}
+  - component: {fileID: 808178541989974353}
+  - component: {fileID: 808178541989974352}
+  m_Layer: 0
+  m_Name: Dialogue
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &808178541989974358
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 808178541989974356}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 5.2742243, y: -1.5644462, z: -11.309706}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &808178541989974359
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 808178541989974356}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6446800e17e6a9b40a6956698052b9eb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  textDisplay: {fileID: 0}
+  nextButton: {fileID: 0}
+  texts:
+  - text: Hello, there! Glad to meet you!
+    sound: {fileID: 8300000, guid: a58724db85f13ec4baab3c0139f14d56, type: 3}
+    imageObject: {fileID: 0}
+  - text: Welcome to the world of cutie garden!
+    sound: {fileID: 8300000, guid: 009aea8ac8e1a45419a577fb92479c0a, type: 3}
+    imageObject: {fileID: 0}
+  - text: My name is Chun-Li.
+    sound: {fileID: 8300000, guid: 9a8773a451f5ec9419a678effb47e560, type: 3}
+    imageObject: {fileID: 0}
+  - text: People affectionately refer to me as an absolute baddie.
+    sound: {fileID: 8300000, guid: 624ec9564946d464b9d6145401d2b9f3, type: 3}
+    imageObject: {fileID: 0}
+  - text: This world...
+    sound: {fileID: 8300000, guid: 609250e747fa83e468dfe6221e95fc7e, type: 3}
+    imageObject: {fileID: 0}
+  - text: ...is inhabited far and wide by creatures called Cuties
+    sound: {fileID: 8300000, guid: a84fa72158b388c4fb996d2c8a4e7f9d, type: 3}
+    imageObject: {fileID: 0}
+  - text: For some people, Cuties are pets. Others use them for battles.
+    sound: {fileID: 8300000, guid: 96c08f9f8d8e3e847bacd3ba69483f28, type: 3}
+    imageObject: {fileID: 0}
+  - text: As for myself...
+    sound: {fileID: 8300000, guid: a509330595f664b488f7b4266bcf77fe, type: 3}
+    imageObject: {fileID: 0}
+  - text: I occasionally throw them off moutains. Or beat the absolute shit out of
+      them.
+    sound: {fileID: 8300000, guid: e04f619663ab4bc49abafa5cb601d97c, type: 3}
+    imageObject: {fileID: 0}
+  - text: Espically the one in orange. His name is Krillin. Don't tell me you wouldn't
+      wanna bash him too?
+    sound: {fileID: 8300000, guid: 5cb5b20ac8d0635419b8382a99f98ea6, type: 3}
+    imageObject: {fileID: 0}
+  - text: Like look at him. He's got no nose, has an annoying voice, When he was
+      14 he had a crush on a 5 year old native American kid named Upa who he thought
+      was a girl somehow. He has a terrible character arc. The dots on his head are
+      fucking disgusting and make me wanna vomit. He's  bold and has no hair. He's
+      a an absolute midget and is below the height 5 foot 6. Man ain't packing and
+      wouldn't be able to satisify any women. Honestly he deserves more then capitial
+      punishment.
+    sound: {fileID: 8300000, guid: ec4dcea2fc8d9d6419085a75a20bc927, type: 3}
+    imageObject: {fileID: 0}
+  - text: Anyways, Tell me a little bit about yourself.
+    sound: {fileID: 8300000, guid: 4169787be97467d4db320fa7651d315c, type: 3}
+    imageObject: {fileID: 0}
+  - text: Joking I couldn't give a shit about your broke ass.
+    sound: {fileID: 8300000, guid: 347f3eab71e268240900fd547fc576a2, type: 3}
+    imageObject: {fileID: 0}
+  - text: Lets start the epic gameplay.
+    sound: {fileID: 8300000, guid: 23ccbad3f7e46e844bb5cb1f12fb1c5b, type: 3}
+    imageObject: {fileID: 0}
+  - text: What episode was she watching?
+    sound: {fileID: 8300000, guid: 94bd22afe40d6444e86f083ad3472353, type: 3}
+    imageObject: {fileID: 0}
+  - text: I was the one watching
+    sound: {fileID: 8300000, guid: 2a2cfb38d7a85ef46b8a56daacfd035a, type: 3}
+    imageObject: {fileID: 0}
+  nextCanvas: {fileID: 0}
+  canvasToDisable: {fileID: 0}
+  disableCanvasOnComplete: 1
+--- !u!82 &808178541989974353
+AudioSource:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 808178541989974356}
+  m_Enabled: 1
+  serializedVersion: 4
+  OutputAudioMixerGroup: {fileID: 0}
+  m_audioClip: {fileID: 0}
+  m_PlayOnAwake: 1
+  m_Volume: 1
+  m_Pitch: 1
+  Loop: 0
+  Mute: 0
+  Spatialize: 0
+  SpatializePostEffects: 0
+  Priority: 128
+  DopplerLevel: 1
+  MinDistance: 1
+  MaxDistance: 500
+  Pan2D: 0
+  rolloffMode: 0
+  BypassEffects: 0
+  BypassListenerEffects: 0
+  BypassReverbZones: 0
+  rolloffCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 1
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  panLevelCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  spreadCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  reverbZoneMixCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+--- !u!81 &808178541989974352
+AudioListener:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 808178541989974356}
+  m_Enabled: 1

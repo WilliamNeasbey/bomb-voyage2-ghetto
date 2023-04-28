@@ -1,0 +1,1021 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!319 &31900000
+AvatarMask:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: ChunLi
+  m_Mask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+  m_Elements:
+  - m_Path: 
+    m_Weight: 1
+  - m_Path: Camera
+    m_Weight: 0
+  - m_Path: chunli
+    m_Weight: 1
+  - m_Path: chunli.qc_skeleton
+    m_Weight: 1
+  - m_Path: chunli.qc_skeleton/rootTransform
+    m_Weight: 1
+  - m_Path: chunli.qc_skeleton/rootTransform/bip_pelvis
+    m_Weight: 1
+  - m_Path: chunli.qc_skeleton/rootTransform/bip_pelvis/bip_hip_L
+    m_Weight: 1
+  - m_Path: chunli.qc_skeleton/rootTransform/bip_pelvis/bip_hip_L/bip_knee_L
+    m_Weight: 1
+  - m_Path: chunli.qc_skeleton/rootTransform/bip_pelvis/bip_hip_L/bip_knee_L/bip_foot_L
+    m_Weight: 1
+  - m_Path: chunli.qc_skeleton/rootTransform/bip_pelvis/bip_hip_L/bip_knee_L/bip_foot_L/bip_toe_L
+    m_Weight: 1
+  - m_Path: chunli.qc_skeleton/rootTransform/bip_pelvis/bip_hip_L/bip_knee_L/bip_foot_L/bip_toe_L/bip_toe_L_end
+    m_Weight: 1
+  - m_Path: chunli.qc_skeleton/rootTransform/bip_pelvis/bip_hip_L/bip_knee_L/bip_foot_L/leg
+      left ankle ctr3
+    m_Weight: 1
+  - m_Path: chunli.qc_skeleton/rootTransform/bip_pelvis/bip_hip_L/bip_knee_L/bip_foot_L/leg
+      left ankle ctr3/leg left ankle ctr3_end
+    m_Weight: 1
+  - m_Path: chunli.qc_skeleton/rootTransform/bip_pelvis/bip_hip_L/bip_knee_L/bip_foot_L/leg
+      left ankle ctr4
+    m_Weight: 1
+  - m_Path: chunli.qc_skeleton/rootTransform/bip_pelvis/bip_hip_L/bip_knee_L/bip_foot_L/leg
+      left ankle ctr4/leg left ankle ctr4_end
+    m_Weight: 1
+  - m_Path: chunli.qc_skeleton/rootTransform/bip_pelvis/bip_hip_L/bip_knee_L/leg
+      left ankle ctr
+    m_Weight: 1
+  - m_Path: chunli.qc_skeleton/rootTransform/bip_pelvis/bip_hip_L/bip_knee_L/leg
+      left ankle ctr/leg left ankle ctr_end
+    m_Weight: 1
+  - m_Path: chunli.qc_skeleton/rootTransform/bip_pelvis/bip_hip_L/bip_knee_L/leg
+      left ankle ctr2
+    m_Weight: 1
+  - m_Path: chunli.qc_skeleton/rootTransform/bip_pelvis/bip_hip_L/bip_knee_L/leg
+      left ankle ctr2/leg left ankle ctr2_end
+    m_Weight: 1
+  - m_Path: chunli.qc_skeleton/rootTransform/bip_pelvis/bip_hip_L/bip_knee_L/leg
+      left knee ctr
+    m_Weight: 1
+  - m_Path: chunli.qc_skeleton/rootTransform/bip_pelvis/bip_hip_L/bip_knee_L/leg
+      left knee ctr/leg left knee ctr2
+    m_Weight: 1
+  - m_Path: chunli.qc_skeleton/rootTransform/bip_pelvis/bip_hip_L/bip_knee_L/leg
+      left knee ctr/leg left knee ctr2/leg left knee ctr2_end
+    m_Weight: 1
+  - m_Path: chunli.qc_skeleton/rootTransform/bip_pelvis/bip_hip_L/bip_knee_L/leg
+      left knee ctr3
+    m_Weight: 1
+  - m_Path: chunli.qc_skeleton/rootTransform/bip_pelvis/bip_hip_L/bip_knee_L/leg
+      left knee ctr3/leg left knee ctr4
+    m_Weight: 1
+  - m_Path: chunli.qc_skeleton/rootTransform/bip_pelvis/bip_hip_L/bip_knee_L/leg
+      left knee ctr3/leg left knee ctr4/leg left knee ctr4_end
+    m_Weight: 1
+  - m_Path: chunli.qc_skeleton/rootTransform/bip_pelvis/bip_hip_L/leg left butt ctr
+    m_Weight: 1
+  - m_Path: chunli.qc_skeleton/rootTransform/bip_pelvis/bip_hip_L/leg left butt ctr/leg
+      left butt ctr_end
+    m_Weight: 1
+  - m_Path: chunli.qc_skeleton/rootTransform/bip_pelvis/bip_hip_L/leg left thigh
+      ctr
+    m_Weight: 1
+  - m_Path: chunli.qc_skeleton/rootTransform/bip_pelvis/bip_hip_L/leg left thigh
+      ctr/leg left thigh ctr_end
+    m_Weight: 1
+  - m_Path: chunli.qc_skeleton/rootTransform/bip_pelvis/bip_hip_L/leg left thigh
+      ctr2
+    m_Weight: 1
+  - m_Path: chunli.qc_skeleton/rootTransform/bip_pelvis/bip_hip_L/leg left thigh
+      ctr2/leg left thigh ctr2_end
+    m_Weight: 1
+  - m_Path: chunli.qc_skeleton/rootTransform/bip_pelvis/bip_hip_L/leg left thigh
+      ctr3
+    m_Weight: 1
+  - m_Path: chunli.qc_skeleton/rootTransform/bip_pelvis/bip_hip_L/leg left thigh
+      ctr3/leg left thigh ctr3_end
+    m_Weight: 1
+  - m_Path: chunli.qc_skeleton/rootTransform/bip_pelvis/bip_hip_L/leg left thigh
+      ctr4
+    m_Weight: 1
+  - m_Path: chunli.qc_skeleton/rootTransform/bip_pelvis/bip_hip_L/leg left thigh
+      ctr4/leg left thigh ctr4_end
+    m_Weight: 1
+  - m_Path: chunli.qc_skeleton/rootTransform/bip_pelvis/bip_hip_L/leg left thigh
+      ctr5
+    m_Weight: 1
+  - m_Path: chunli.qc_skeleton/rootTransform/bip_pelvis/bip_hip_L/leg left thigh
+      ctr5/leg left thigh ctr6
+    m_Weight: 1
+  - m_Path: chunli.qc_skeleton/rootTransform/bip_pelvis/bip_hip_L/leg left thigh
+      ctr5/leg left thigh ctr6/leg left thigh ctr6_end
+    m_Weight: 1
+  - m_Path: chunli.qc_skeleton/rootTransform/bip_pelvis/bip_hip_R
+    m_Weight: 1
+  - m_Path: chunli.qc_skeleton/rootTransform/bip_pelvis/bip_hip_R/bip_knee_R
+    m_Weight: 1
+  - m_Path: chunli.qc_skeleton/rootTransform/bip_pelvis/bip_hip_R/bip_knee_R/bip_foot_R
+    m_Weight: 1
+  - m_Path: chunli.qc_skeleton/rootTransform/bip_pelvis/bip_hip_R/bip_knee_R/bip_foot_R/bip_toe_R
+    m_Weight: 1
+  - m_Path: chunli.qc_skeleton/rootTransform/bip_pelvis/bip_hip_R/bip_knee_R/bip_foot_R/bip_toe_R/bip_toe_R_end
+    m_Weight: 1
+  - m_Path: chunli.qc_skeleton/rootTransform/bip_pelvis/bip_hip_R/bip_knee_R/bip_foot_R/leg
+      right ankle ctr3
+    m_Weight: 1
+  - m_Path: chunli.qc_skeleton/rootTransform/bip_pelvis/bip_hip_R/bip_knee_R/bip_foot_R/leg
+      right ankle ctr3/leg right ankle ctr3_end
+    m_Weight: 1
+  - m_Path: chunli.qc_skeleton/rootTransform/bip_pelvis/bip_hip_R/bip_knee_R/bip_foot_R/leg
+      right ankle ctr4
+    m_Weight: 1
+  - m_Path: chunli.qc_skeleton/rootTransform/bip_pelvis/bip_hip_R/bip_knee_R/bip_foot_R/leg
+      right ankle ctr4/leg right ankle ctr4_end
+    m_Weight: 1
+  - m_Path: chunli.qc_skeleton/rootTransform/bip_pelvis/bip_hip_R/bip_knee_R/leg
+      right ankle ctr
+    m_Weight: 1
+  - m_Path: chunli.qc_skeleton/rootTransform/bip_pelvis/bip_hip_R/bip_knee_R/leg
+      right ankle ctr/leg right ankle ctr_end
+    m_Weight: 1
+  - m_Path: chunli.qc_skeleton/rootTransform/bip_pelvis/bip_hip_R/bip_knee_R/leg
+      right ankle ctr2
+    m_Weight: 1
+  - m_Path: chunli.qc_skeleton/rootTransform/bip_pelvis/bip_hip_R/bip_knee_R/leg
+      right ankle ctr2/leg right ankle ctr2_end
+    m_Weight: 1
+  - m_Path: chunli.qc_skeleton/rootTransform/bip_pelvis/bip_hip_R/bip_knee_R/leg
+      right knee ctr
+    m_Weight: 1
+  - m_Path: chunli.qc_skeleton/rootTransform/bip_pelvis/bip_hip_R/bip_knee_R/leg
+      right knee ctr/leg right knee ctr2
+    m_Weight: 1
+  - m_Path: chunli.qc_skeleton/rootTransform/bip_pelvis/bip_hip_R/bip_knee_R/leg
+      right knee ctr/leg right knee ctr2/leg right knee ctr2_end
+    m_Weight: 1
+  - m_Path: chunli.qc_skeleton/rootTransform/bip_pelvis/bip_hip_R/bip_knee_R/leg
+      right knee ctr3
+    m_Weight: 1
+  - m_Path: chunli.qc_skeleton/rootTransform/bip_pelvis/bip_hip_R/bip_knee_R/leg
+      right knee ctr3/leg right knee ctr4
+    m_Weight: 1
+  - m_Path: chunli.qc_skeleton/rootTransform/bip_pelvis/bip_hip_R/bip_knee_R/leg
+      right knee ctr3/leg right knee ctr4/leg right knee ctr4_end
+    m_Weight: 1
+  - m_Path: chunli.qc_skeleton/rootTransform/bip_pelvis/bip_hip_R/leg right butt
+      ctr
+    m_Weight: 1
+  - m_Path: chunli.qc_skeleton/rootTransform/bip_pelvis/bip_hip_R/leg right butt
+      ctr/leg right butt ctr_end
+    m_Weight: 1
+  - m_Path: chunli.qc_skeleton/rootTransform/bip_pelvis/bip_hip_R/leg right thigh
+      ctr
+    m_Weight: 1
+  - m_Path: chunli.qc_skeleton/rootTransform/bip_pelvis/bip_hip_R/leg right thigh
+      ctr/leg right thigh ctr_end
+    m_Weight: 1
+  - m_Path: chunli.qc_skeleton/rootTransform/bip_pelvis/bip_hip_R/leg right thigh
+      ctr2
+    m_Weight: 1
+  - m_Path: chunli.qc_skeleton/rootTransform/bip_pelvis/bip_hip_R/leg right thigh
+      ctr2/leg right thigh ctr2_end
+    m_Weight: 1
+  - m_Path: chunli.qc_skeleton/rootTransform/bip_pelvis/bip_hip_R/leg right thigh
+      ctr3
+    m_Weight: 1
+  - m_Path: chunli.qc_skeleton/rootTransform/bip_pelvis/bip_hip_R/leg right thigh
+      ctr3/leg right thigh ctr3_end
+    m_Weight: 1
+  - m_Path: chunli.qc_skeleton/rootTransform/bip_pelvis/bip_hip_R/leg right thigh
+      ctr4
+    m_Weight: 1
+  - m_Path: chunli.qc_skeleton/rootTransform/bip_pelvis/bip_hip_R/leg right thigh
+      ctr4/leg right thigh ctr4_end
+    m_Weight: 1
+  - m_Path: chunli.qc_skeleton/rootTransform/bip_pelvis/bip_hip_R/leg right thigh
+      ctr5
+    m_Weight: 1
+  - m_Path: chunli.qc_skeleton/rootTransform/bip_pelvis/bip_hip_R/leg right thigh
+      ctr5/leg right thigh ctr6
+    m_Weight: 1
+  - m_Path: chunli.qc_skeleton/rootTransform/bip_pelvis/bip_hip_R/leg right thigh
+      ctr5/leg right thigh ctr6/leg right thigh ctr6_end
+    m_Weight: 1
+  - m_Path: chunli.qc_skeleton/rootTransform/bip_pelvis/bip_spine_0
+    m_Weight: 1
+  - m_Path: chunli.qc_skeleton/rootTransform/bip_pelvis/bip_spine_0/bip_spine_1
+    m_Weight: 1
+  - m_Path: chunli.qc_skeleton/rootTransform/bip_pelvis/bip_spine_0/bip_spine_1/bip_spine_2
+    m_Weight: 1
+  - m_Path: chunli.qc_skeleton/rootTransform/bip_pelvis/bip_spine_0/bip_spine_1/bip_spine_2/bip_collar_L
+    m_Weight: 1
+  - m_Path: chunli.qc_skeleton/rootTransform/bip_pelvis/bip_spine_0/bip_spine_1/bip_spine_2/bip_collar_L/bip_upperArm_L
+    m_Weight: 1
+  - m_Path: chunli.qc_skeleton/rootTransform/bip_pelvis/bip_spine_0/bip_spine_1/bip_spine_2/bip_collar_L/bip_upperArm_L/arm
+      left shoulder 2 ctr
+    m_Weight: 1
+  - m_Path: chunli.qc_skeleton/rootTransform/bip_pelvis/bip_spine_0/bip_spine_1/bip_spine_2/bip_collar_L/bip_upperArm_L/arm
+      left shoulder 2 ctr/arm left shoulder 2 ctr_end
+    m_Weight: 1
+  - m_Path: chunli.qc_skeleton/rootTransform/bip_pelvis/bip_spine_0/bip_spine_1/bip_spine_2/bip_collar_L/bip_upperArm_L/arm
+      left shoulder 2 ctr2
+    m_Weight: 1
+  - m_Path: chunli.qc_skeleton/rootTransform/bip_pelvis/bip_spine_0/bip_spine_1/bip_spine_2/bip_collar_L/bip_upperArm_L/arm
+      left shoulder 2 ctr2/arm left shoulder 2 ctr2_end
+    m_Weight: 1
+  - m_Path: chunli.qc_skeleton/rootTransform/bip_pelvis/bip_spine_0/bip_spine_1/bip_spine_2/bip_collar_L/bip_upperArm_L/arm
+      left shoulder 2 ctr3
+    m_Weight: 1
+  - m_Path: chunli.qc_skeleton/rootTransform/bip_pelvis/bip_spine_0/bip_spine_1/bip_spine_2/bip_collar_L/bip_upperArm_L/arm
+      left shoulder 2 ctr3/arm left shoulder 2 ctr3_end
+    m_Weight: 1
+  - m_Path: chunli.qc_skeleton/rootTransform/bip_pelvis/bip_spine_0/bip_spine_1/bip_spine_2/bip_collar_L/bip_upperArm_L/arm
+      left shoulder 2 ctr4
+    m_Weight: 1
+  - m_Path: chunli.qc_skeleton/rootTransform/bip_pelvis/bip_spine_0/bip_spine_1/bip_spine_2/bip_collar_L/bip_upperArm_L/arm
+      left shoulder 2 ctr4/arm left shoulder 2 ctr4_end
+    m_Weight: 1
+  - m_Path: chunli.qc_skeleton/rootTransform/bip_pelvis/bip_spine_0/bip_spine_1/bip_spine_2/bip_collar_L/bip_upperArm_L/arm
+      left shoulder 2 ctr5
+    m_Weight: 1
+  - m_Path: chunli.qc_skeleton/rootTransform/bip_pelvis/bip_spine_0/bip_spine_1/bip_spine_2/bip_collar_L/bip_upperArm_L/arm
+      left shoulder 2 ctr5/arm left shoulder 2 ctr5_end
+    m_Weight: 1
+  - m_Path: chunli.qc_skeleton/rootTransform/bip_pelvis/bip_spine_0/bip_spine_1/bip_spine_2/bip_collar_L/bip_upperArm_L/arm
+      left shoulder 2 ctr6
+    m_Weight: 1
+  - m_Path: chunli.qc_skeleton/rootTransform/bip_pelvis/bip_spine_0/bip_spine_1/bip_spine_2/bip_collar_L/bip_upperArm_L/arm
+      left shoulder 2 ctr6/arm left shoulder 2 ctr7
+    m_Weight: 1
+  - m_Path: chunli.qc_skeleton/rootTransform/bip_pelvis/bip_spine_0/bip_spine_1/bip_spine_2/bip_collar_L/bip_upperArm_L/arm
+      left shoulder 2 ctr6/arm left shoulder 2 ctr7/arm left shoulder 2 ctr7_end
+    m_Weight: 1
+  - m_Path: chunli.qc_skeleton/rootTransform/bip_pelvis/bip_spine_0/bip_spine_1/bip_spine_2/bip_collar_L/bip_upperArm_L/bip_lowerArm_L
+    m_Weight: 1
+  - m_Path: chunli.qc_skeleton/rootTransform/bip_pelvis/bip_spine_0/bip_spine_1/bip_spine_2/bip_collar_L/bip_upperArm_L/bip_lowerArm_L/arm
+      left elbow ctr
+    m_Weight: 1
+  - m_Path: chunli.qc_skeleton/rootTransform/bip_pelvis/bip_spine_0/bip_spine_1/bip_spine_2/bip_collar_L/bip_upperArm_L/bip_lowerArm_L/arm
+      left elbow ctr/arm left elbow ctr2
+    m_Weight: 1
+  - m_Path: chunli.qc_skeleton/rootTransform/bip_pelvis/bip_spine_0/bip_spine_1/bip_spine_2/bip_collar_L/bip_upperArm_L/bip_lowerArm_L/arm
+      left elbow ctr/arm left elbow ctr2/arm left elbow ctr2_end
+    m_Weight: 1
+  - m_Path: chunli.qc_skeleton/rootTransform/bip_pelvis/bip_spine_0/bip_spine_1/bip_spine_2/bip_collar_L/bip_upperArm_L/bip_lowerArm_L/arm
+      left elbow ctr3
+    m_Weight: 1
+  - m_Path: chunli.qc_skeleton/rootTransform/bip_pelvis/bip_spine_0/bip_spine_1/bip_spine_2/bip_collar_L/bip_upperArm_L/bip_lowerArm_L/arm
+      left elbow ctr3/arm left elbow ctr3_end
+    m_Weight: 1
+  - m_Path: chunli.qc_skeleton/rootTransform/bip_pelvis/bip_spine_0/bip_spine_1/bip_spine_2/bip_collar_L/bip_upperArm_L/bip_lowerArm_L/arm
+      left elbow ctr4
+    m_Weight: 1
+  - m_Path: chunli.qc_skeleton/rootTransform/bip_pelvis/bip_spine_0/bip_spine_1/bip_spine_2/bip_collar_L/bip_upperArm_L/bip_lowerArm_L/arm
+      left elbow ctr4/arm left elbow ctr4_end
+    m_Weight: 1
+  - m_Path: chunli.qc_skeleton/rootTransform/bip_pelvis/bip_spine_0/bip_spine_1/bip_spine_2/bip_collar_L/bip_upperArm_L/bip_lowerArm_L/arm
+      left wrist ctr
+    m_Weight: 1
+  - m_Path: chunli.qc_skeleton/rootTransform/bip_pelvis/bip_spine_0/bip_spine_1/bip_spine_2/bip_collar_L/bip_upperArm_L/bip_lowerArm_L/arm
+      left wrist ctr/arm left wrist ctr_end
+    m_Weight: 1
+  - m_Path: chunli.qc_skeleton/rootTransform/bip_pelvis/bip_spine_0/bip_spine_1/bip_spine_2/bip_collar_L/bip_upperArm_L/bip_lowerArm_L/bip_hand_L
+    m_Weight: 1
+  - m_Path: chunli.qc_skeleton/rootTransform/bip_pelvis/bip_spine_0/bip_spine_1/bip_spine_2/bip_collar_L/bip_upperArm_L/bip_lowerArm_L/bip_hand_L/arm
+      left finger 2
+    m_Weight: 1
+  - m_Path: chunli.qc_skeleton/rootTransform/bip_pelvis/bip_spine_0/bip_spine_1/bip_spine_2/bip_collar_L/bip_upperArm_L/bip_lowerArm_L/bip_hand_L/arm
+      left finger 2/bip_index_0_L
+    m_Weight: 1
+  - m_Path: chunli.qc_skeleton/rootTransform/bip_pelvis/bip_spine_0/bip_spine_1/bip_spine_2/bip_collar_L/bip_upperArm_L/bip_lowerArm_L/bip_hand_L/arm
+      left finger 2/bip_index_0_L/arm left finger 2a ctr
+    m_Weight: 1
+  - m_Path: chunli.qc_skeleton/rootTransform/bip_pelvis/bip_spine_0/bip_spine_1/bip_spine_2/bip_collar_L/bip_upperArm_L/bip_lowerArm_L/bip_hand_L/arm
+      left finger 2/bip_index_0_L/arm left finger 2a ctr/arm left finger 2a ctr_end
+    m_Weight: 1
+  - m_Path: chunli.qc_skeleton/rootTransform/bip_pelvis/bip_spine_0/bip_spine_1/bip_spine_2/bip_collar_L/bip_upperArm_L/bip_lowerArm_L/bip_hand_L/arm
+      left finger 2/bip_index_0_L/bip_index_1_L
+    m_Weight: 1
+  - m_Path: chunli.qc_skeleton/rootTransform/bip_pelvis/bip_spine_0/bip_spine_1/bip_spine_2/bip_collar_L/bip_upperArm_L/bip_lowerArm_L/bip_hand_L/arm
+      left finger 2/bip_index_0_L/bip_index_1_L/arm left finger 2b ctr
+    m_Weight: 1
+  - m_Path: chunli.qc_skeleton/rootTransform/bip_pelvis/bip_spine_0/bip_spine_1/bip_spine_2/bip_collar_L/bip_upperArm_L/bip_lowerArm_L/bip_hand_L/arm
+      left finger 2/bip_index_0_L/bip_index_1_L/arm left finger 2b ctr/arm left finger
+      2b ctr_end
+    m_Weight: 1
+  - m_Path: chunli.qc_skeleton/rootTransform/bip_pelvis/bip_spine_0/bip_spine_1/bip_spine_2/bip_collar_L/bip_upperArm_L/bip_lowerArm_L/bip_hand_L/arm
+      left finger 2/bip_index_0_L/bip_index_1_L/bip_index_2_L
+    m_Weight: 1
+  - m_Path: chunli.qc_skeleton/rootTransform/bip_pelvis/bip_spine_0/bip_spine_1/bip_spine_2/bip_collar_L/bip_upperArm_L/bip_lowerArm_L/bip_hand_L/arm
+      left finger 2/bip_index_0_L/bip_index_1_L/bip_index_2_L/arm left finger 2c
+      ctr
+    m_Weight: 1
+  - m_Path: chunli.qc_skeleton/rootTransform/bip_pelvis/bip_spine_0/bip_spine_1/bip_spine_2/bip_collar_L/bip_upperArm_L/bip_lowerArm_L/bip_hand_L/arm
+      left finger 2/bip_index_0_L/bip_index_1_L/bip_index_2_L/arm left finger 2c
+      ctr/arm left finger 2c ctr_end
+    m_Weight: 1
+  - m_Path: chunli.qc_skeleton/rootTransform/bip_pelvis/bip_spine_0/bip_spine_1/bip_spine_2/bip_collar_L/bip_upperArm_L/bip_lowerArm_L/bip_hand_L/arm
+      left finger 3
+    m_Weight: 1
+  - m_Path: chunli.qc_skeleton/rootTransform/bip_pelvis/bip_spine_0/bip_spine_1/bip_spine_2/bip_collar_L/bip_upperArm_L/bip_lowerArm_L/bip_hand_L/arm
+      left finger 3/bip_middle_0_L
+    m_Weight: 1
+  - m_Path: chunli.qc_skeleton/rootTransform/bip_pelvis/bip_spine_0/bip_spine_1/bip_spine_2/bip_collar_L/bip_upperArm_L/bip_lowerArm_L/bip_hand_L/arm
+      left finger 3/bip_middle_0_L/arm left finger 3a ctr
+    m_Weight: 1
+  - m_Path: chunli.qc_skeleton/rootTransform/bip_pelvis/bip_spine_0/bip_spine_1/bip_spine_2/bip_collar_L/bip_upperArm_L/bip_lowerArm_L/bip_hand_L/arm
+      left finger 3/bip_middle_0_L/arm left finger 3a ctr/arm left finger 3a ctr_end
+    m_Weight: 1
+  - m_Path: chunli.qc_skeleton/rootTransform/bip_pelvis/bip_spine_0/bip_spine_1/bip_spine_2/bip_collar_L/bip_upperArm_L/bip_lowerArm_L/bip_hand_L/arm
+      left finger 3/bip_middle_0_L/bip_middle_1_L
+    m_Weight: 1
+  - m_Path: chunli.qc_skeleton/rootTransform/bip_pelvis/bip_spine_0/bip_spine_1/bip_spine_2/bip_collar_L/bip_upperArm_L/bip_lowerArm_L/bip_hand_L/arm
+      left finger 3/bip_middle_0_L/bip_middle_1_L/arm left finger 3b ctr
+    m_Weight: 1
+  - m_Path: chunli.qc_skeleton/rootTransform/bip_pelvis/bip_spine_0/bip_spine_1/bip_spine_2/bip_collar_L/bip_upperArm_L/bip_lowerArm_L/bip_hand_L/arm
+      left finger 3/bip_middle_0_L/bip_middle_1_L/arm left finger 3b ctr/arm left
+      finger 3b ctr_end
+    m_Weight: 1
+  - m_Path: chunli.qc_skeleton/rootTransform/bip_pelvis/bip_spine_0/bip_spine_1/bip_spine_2/bip_collar_L/bip_upperArm_L/bip_lowerArm_L/bip_hand_L/arm
+      left finger 3/bip_middle_0_L/bip_middle_1_L/bip_middle_2_L
+    m_Weight: 1
+  - m_Path: chunli.qc_skeleton/rootTransform/bip_pelvis/bip_spine_0/bip_spine_1/bip_spine_2/bip_collar_L/bip_upperArm_L/bip_lowerArm_L/bip_hand_L/arm
+      left finger 3/bip_middle_0_L/bip_middle_1_L/bip_middle_2_L/arm left finger
+      3c ctr
+    m_Weight: 1
+  - m_Path: chunli.qc_skeleton/rootTransform/bip_pelvis/bip_spine_0/bip_spine_1/bip_spine_2/bip_collar_L/bip_upperArm_L/bip_lowerArm_L/bip_hand_L/arm
+      left finger 3/bip_middle_0_L/bip_middle_1_L/bip_middle_2_L/arm left finger
+      3c ctr/arm left finger 3c ctr_end
+    m_Weight: 1
+  - m_Path: chunli.qc_skeleton/rootTransform/bip_pelvis/bip_spine_0/bip_spine_1/bip_spine_2/bip_collar_L/bip_upperArm_L/bip_lowerArm_L/bip_hand_L/arm
+      left finger 4
+    m_Weight: 1
+  - m_Path: chunli.qc_skeleton/rootTransform/bip_pelvis/bip_spine_0/bip_spine_1/bip_spine_2/bip_collar_L/bip_upperArm_L/bip_lowerArm_L/bip_hand_L/arm
+      left finger 4/bip_ring_0_L
+    m_Weight: 1
+  - m_Path: chunli.qc_skeleton/rootTransform/bip_pelvis/bip_spine_0/bip_spine_1/bip_spine_2/bip_collar_L/bip_upperArm_L/bip_lowerArm_L/bip_hand_L/arm
+      left finger 4/bip_ring_0_L/arm left finger 4a ctr
+    m_Weight: 1
+  - m_Path: chunli.qc_skeleton/rootTransform/bip_pelvis/bip_spine_0/bip_spine_1/bip_spine_2/bip_collar_L/bip_upperArm_L/bip_lowerArm_L/bip_hand_L/arm
+      left finger 4/bip_ring_0_L/arm left finger 4a ctr/arm left finger 4a ctr_end
+    m_Weight: 1
+  - m_Path: chunli.qc_skeleton/rootTransform/bip_pelvis/bip_spine_0/bip_spine_1/bip_spine_2/bip_collar_L/bip_upperArm_L/bip_lowerArm_L/bip_hand_L/arm
+      left finger 4/bip_ring_0_L/bip_ring_1_L
+    m_Weight: 1
+  - m_Path: chunli.qc_skeleton/rootTransform/bip_pelvis/bip_spine_0/bip_spine_1/bip_spine_2/bip_collar_L/bip_upperArm_L/bip_lowerArm_L/bip_hand_L/arm
+      left finger 4/bip_ring_0_L/bip_ring_1_L/arm left finger 4b ctr
+    m_Weight: 1
+  - m_Path: chunli.qc_skeleton/rootTransform/bip_pelvis/bip_spine_0/bip_spine_1/bip_spine_2/bip_collar_L/bip_upperArm_L/bip_lowerArm_L/bip_hand_L/arm
+      left finger 4/bip_ring_0_L/bip_ring_1_L/arm left finger 4b ctr/arm left finger
+      4b ctr_end
+    m_Weight: 1
+  - m_Path: chunli.qc_skeleton/rootTransform/bip_pelvis/bip_spine_0/bip_spine_1/bip_spine_2/bip_collar_L/bip_upperArm_L/bip_lowerArm_L/bip_hand_L/arm
+      left finger 4/bip_ring_0_L/bip_ring_1_L/bip_ring_2_L
+    m_Weight: 1
+  - m_Path: chunli.qc_skeleton/rootTransform/bip_pelvis/bip_spine_0/bip_spine_1/bip_spine_2/bip_collar_L/bip_upperArm_L/bip_lowerArm_L/bip_hand_L/arm
+      left finger 4/bip_ring_0_L/bip_ring_1_L/bip_ring_2_L/arm left finger 4c ctr
+    m_Weight: 1
+  - m_Path: chunli.qc_skeleton/rootTransform/bip_pelvis/bip_spine_0/bip_spine_1/bip_spine_2/bip_collar_L/bip_upperArm_L/bip_lowerArm_L/bip_hand_L/arm
+      left finger 4/bip_ring_0_L/bip_ring_1_L/bip_ring_2_L/arm left finger 4c ctr/arm
+      left finger 4c ctr_end
+    m_Weight: 1
+  - m_Path: chunli.qc_skeleton/rootTransform/bip_pelvis/bip_spine_0/bip_spine_1/bip_spine_2/bip_collar_L/bip_upperArm_L/bip_lowerArm_L/bip_hand_L/arm
+      left finger 5
+    m_Weight: 1
+  - m_Path: chunli.qc_skeleton/rootTransform/bip_pelvis/bip_spine_0/bip_spine_1/bip_spine_2/bip_collar_L/bip_upperArm_L/bip_lowerArm_L/bip_hand_L/arm
+      left finger 5/bip_pinky_0_L
+    m_Weight: 1
+  - m_Path: chunli.qc_skeleton/rootTransform/bip_pelvis/bip_spine_0/bip_spine_1/bip_spine_2/bip_collar_L/bip_upperArm_L/bip_lowerArm_L/bip_hand_L/arm
+      left finger 5/bip_pinky_0_L/arm left finger 5a ctr
+    m_Weight: 1
+  - m_Path: chunli.qc_skeleton/rootTransform/bip_pelvis/bip_spine_0/bip_spine_1/bip_spine_2/bip_collar_L/bip_upperArm_L/bip_lowerArm_L/bip_hand_L/arm
+      left finger 5/bip_pinky_0_L/arm left finger 5a ctr/arm left finger 5a ctr_end
+    m_Weight: 1
+  - m_Path: chunli.qc_skeleton/rootTransform/bip_pelvis/bip_spine_0/bip_spine_1/bip_spine_2/bip_collar_L/bip_upperArm_L/bip_lowerArm_L/bip_hand_L/arm
+      left finger 5/bip_pinky_0_L/bip_pinky_1_L
+    m_Weight: 1
+  - m_Path: chunli.qc_skeleton/rootTransform/bip_pelvis/bip_spine_0/bip_spine_1/bip_spine_2/bip_collar_L/bip_upperArm_L/bip_lowerArm_L/bip_hand_L/arm
+      left finger 5/bip_pinky_0_L/bip_pinky_1_L/arm left finger 5b ctr
+    m_Weight: 1
+  - m_Path: chunli.qc_skeleton/rootTransform/bip_pelvis/bip_spine_0/bip_spine_1/bip_spine_2/bip_collar_L/bip_upperArm_L/bip_lowerArm_L/bip_hand_L/arm
+      left finger 5/bip_pinky_0_L/bip_pinky_1_L/arm left finger 5b ctr/arm left finger
+      5b ctr_end
+    m_Weight: 1
+  - m_Path: chunli.qc_skeleton/rootTransform/bip_pelvis/bip_spine_0/bip_spine_1/bip_spine_2/bip_collar_L/bip_upperArm_L/bip_lowerArm_L/bip_hand_L/arm
+      left finger 5/bip_pinky_0_L/bip_pinky_1_L/bip_pinky_2_L
+    m_Weight: 1
+  - m_Path: chunli.qc_skeleton/rootTransform/bip_pelvis/bip_spine_0/bip_spine_1/bip_spine_2/bip_collar_L/bip_upperArm_L/bip_lowerArm_L/bip_hand_L/arm
+      left finger 5/bip_pinky_0_L/bip_pinky_1_L/bip_pinky_2_L/arm left finger 5c
+      ctr
+    m_Weight: 1
+  - m_Path: chunli.qc_skeleton/rootTransform/bip_pelvis/bip_spine_0/bip_spine_1/bip_spine_2/bip_collar_L/bip_upperArm_L/bip_lowerArm_L/bip_hand_L/arm
+      left finger 5/bip_pinky_0_L/bip_pinky_1_L/bip_pinky_2_L/arm left finger 5c
+      ctr/arm left finger 5c ctr_end
+    m_Weight: 1
+  - m_Path: chunli.qc_skeleton/rootTransform/bip_pelvis/bip_spine_0/bip_spine_1/bip_spine_2/bip_collar_L/bip_upperArm_L/bip_lowerArm_L/bip_hand_L/arm
+      left wrist ctr2
+    m_Weight: 1
+  - m_Path: chunli.qc_skeleton/rootTransform/bip_pelvis/bip_spine_0/bip_spine_1/bip_spine_2/bip_collar_L/bip_upperArm_L/bip_lowerArm_L/bip_hand_L/arm
+      left wrist ctr2/arm left wrist ctr2_end
+    m_Weight: 1
+  - m_Path: chunli.qc_skeleton/rootTransform/bip_pelvis/bip_spine_0/bip_spine_1/bip_spine_2/bip_collar_L/bip_upperArm_L/bip_lowerArm_L/bip_hand_L/arm
+      left wrist ctr3
+    m_Weight: 1
+  - m_Path: chunli.qc_skeleton/rootTransform/bip_pelvis/bip_spine_0/bip_spine_1/bip_spine_2/bip_collar_L/bip_upperArm_L/bip_lowerArm_L/bip_hand_L/arm
+      left wrist ctr3/arm left wrist ctr3_end
+    m_Weight: 1
+  - m_Path: chunli.qc_skeleton/rootTransform/bip_pelvis/bip_spine_0/bip_spine_1/bip_spine_2/bip_collar_L/bip_upperArm_L/bip_lowerArm_L/bip_hand_L/bip_thumb_0_L
+    m_Weight: 1
+  - m_Path: chunli.qc_skeleton/rootTransform/bip_pelvis/bip_spine_0/bip_spine_1/bip_spine_2/bip_collar_L/bip_upperArm_L/bip_lowerArm_L/bip_hand_L/bip_thumb_0_L/bip_thumb_1_L
+    m_Weight: 1
+  - m_Path: chunli.qc_skeleton/rootTransform/bip_pelvis/bip_spine_0/bip_spine_1/bip_spine_2/bip_collar_L/bip_upperArm_L/bip_lowerArm_L/bip_hand_L/bip_thumb_0_L/bip_thumb_1_L/arm
+      left finger 1b ctr
+    m_Weight: 1
+  - m_Path: chunli.qc_skeleton/rootTransform/bip_pelvis/bip_spine_0/bip_spine_1/bip_spine_2/bip_collar_L/bip_upperArm_L/bip_lowerArm_L/bip_hand_L/bip_thumb_0_L/bip_thumb_1_L/arm
+      left finger 1b ctr/arm left finger 1b ctr_end
+    m_Weight: 1
+  - m_Path: chunli.qc_skeleton/rootTransform/bip_pelvis/bip_spine_0/bip_spine_1/bip_spine_2/bip_collar_L/bip_upperArm_L/bip_lowerArm_L/bip_hand_L/bip_thumb_0_L/bip_thumb_1_L/bip_thumb_2_L
+    m_Weight: 1
+  - m_Path: chunli.qc_skeleton/rootTransform/bip_pelvis/bip_spine_0/bip_spine_1/bip_spine_2/bip_collar_L/bip_upperArm_L/bip_lowerArm_L/bip_hand_L/bip_thumb_0_L/bip_thumb_1_L/bip_thumb_2_L/arm
+      left finger 1c ctr
+    m_Weight: 1
+  - m_Path: chunli.qc_skeleton/rootTransform/bip_pelvis/bip_spine_0/bip_spine_1/bip_spine_2/bip_collar_L/bip_upperArm_L/bip_lowerArm_L/bip_hand_L/bip_thumb_0_L/bip_thumb_1_L/bip_thumb_2_L/arm
+      left finger 1c ctr/arm left finger 1c ctr_end
+    m_Weight: 1
+  - m_Path: chunli.qc_skeleton/rootTransform/bip_pelvis/bip_spine_0/bip_spine_1/bip_spine_2/bip_collar_L/bip_upperArm_L/sleeves
+      left
+    m_Weight: 1
+  - m_Path: chunli.qc_skeleton/rootTransform/bip_pelvis/bip_spine_0/bip_spine_1/bip_spine_2/bip_collar_L/bip_upperArm_L/sleeves
+      left/sleeves left_end
+    m_Weight: 1
+  - m_Path: chunli.qc_skeleton/rootTransform/bip_pelvis/bip_spine_0/bip_spine_1/bip_spine_2/bip_collar_L/unusedb_L_ShoulderHelper
+    m_Weight: 1
+  - m_Path: chunli.qc_skeleton/rootTransform/bip_pelvis/bip_spine_0/bip_spine_1/bip_spine_2/bip_collar_L/unusedb_L_ShoulderHelper/unusedb_L_ShoulderHelper_end
+    m_Weight: 1
+  - m_Path: chunli.qc_skeleton/rootTransform/bip_pelvis/bip_spine_0/bip_spine_1/bip_spine_2/bip_collar_R
+    m_Weight: 1
+  - m_Path: chunli.qc_skeleton/rootTransform/bip_pelvis/bip_spine_0/bip_spine_1/bip_spine_2/bip_collar_R/bip_upperArm_R
+    m_Weight: 1
+  - m_Path: chunli.qc_skeleton/rootTransform/bip_pelvis/bip_spine_0/bip_spine_1/bip_spine_2/bip_collar_R/bip_upperArm_R/arm
+      right shoulder 2 ctr
+    m_Weight: 1
+  - m_Path: chunli.qc_skeleton/rootTransform/bip_pelvis/bip_spine_0/bip_spine_1/bip_spine_2/bip_collar_R/bip_upperArm_R/arm
+      right shoulder 2 ctr/arm right shoulder 2 ctr_end
+    m_Weight: 1
+  - m_Path: chunli.qc_skeleton/rootTransform/bip_pelvis/bip_spine_0/bip_spine_1/bip_spine_2/bip_collar_R/bip_upperArm_R/arm
+      right shoulder 2 ctr2
+    m_Weight: 1
+  - m_Path: chunli.qc_skeleton/rootTransform/bip_pelvis/bip_spine_0/bip_spine_1/bip_spine_2/bip_collar_R/bip_upperArm_R/arm
+      right shoulder 2 ctr2/arm right shoulder 2 ctr2_end
+    m_Weight: 1
+  - m_Path: chunli.qc_skeleton/rootTransform/bip_pelvis/bip_spine_0/bip_spine_1/bip_spine_2/bip_collar_R/bip_upperArm_R/arm
+      right shoulder 2 ctr3
+    m_Weight: 1
+  - m_Path: chunli.qc_skeleton/rootTransform/bip_pelvis/bip_spine_0/bip_spine_1/bip_spine_2/bip_collar_R/bip_upperArm_R/arm
+      right shoulder 2 ctr3/arm right shoulder 2 ctr3_end
+    m_Weight: 1
+  - m_Path: chunli.qc_skeleton/rootTransform/bip_pelvis/bip_spine_0/bip_spine_1/bip_spine_2/bip_collar_R/bip_upperArm_R/arm
+      right shoulder 2 ctr4
+    m_Weight: 1
+  - m_Path: chunli.qc_skeleton/rootTransform/bip_pelvis/bip_spine_0/bip_spine_1/bip_spine_2/bip_collar_R/bip_upperArm_R/arm
+      right shoulder 2 ctr4/arm right shoulder 2 ctr4_end
+    m_Weight: 1
+  - m_Path: chunli.qc_skeleton/rootTransform/bip_pelvis/bip_spine_0/bip_spine_1/bip_spine_2/bip_collar_R/bip_upperArm_R/arm
+      right shoulder 2 ctr5
+    m_Weight: 1
+  - m_Path: chunli.qc_skeleton/rootTransform/bip_pelvis/bip_spine_0/bip_spine_1/bip_spine_2/bip_collar_R/bip_upperArm_R/arm
+      right shoulder 2 ctr5/arm right shoulder 2 ctr5_end
+    m_Weight: 1
+  - m_Path: chunli.qc_skeleton/rootTransform/bip_pelvis/bip_spine_0/bip_spine_1/bip_spine_2/bip_collar_R/bip_upperArm_R/arm
+      right shoulder 2 ctr6
+    m_Weight: 1
+  - m_Path: chunli.qc_skeleton/rootTransform/bip_pelvis/bip_spine_0/bip_spine_1/bip_spine_2/bip_collar_R/bip_upperArm_R/arm
+      right shoulder 2 ctr6/arm right shoulder 2 ctr7
+    m_Weight: 1
+  - m_Path: chunli.qc_skeleton/rootTransform/bip_pelvis/bip_spine_0/bip_spine_1/bip_spine_2/bip_collar_R/bip_upperArm_R/arm
+      right shoulder 2 ctr6/arm right shoulder 2 ctr7/arm right shoulder 2 ctr7_end
+    m_Weight: 1
+  - m_Path: chunli.qc_skeleton/rootTransform/bip_pelvis/bip_spine_0/bip_spine_1/bip_spine_2/bip_collar_R/bip_upperArm_R/bip_lowerArm_R
+    m_Weight: 1
+  - m_Path: chunli.qc_skeleton/rootTransform/bip_pelvis/bip_spine_0/bip_spine_1/bip_spine_2/bip_collar_R/bip_upperArm_R/bip_lowerArm_R/arm
+      right elbow ctr
+    m_Weight: 1
+  - m_Path: chunli.qc_skeleton/rootTransform/bip_pelvis/bip_spine_0/bip_spine_1/bip_spine_2/bip_collar_R/bip_upperArm_R/bip_lowerArm_R/arm
+      right elbow ctr/arm right elbow ctr2
+    m_Weight: 1
+  - m_Path: chunli.qc_skeleton/rootTransform/bip_pelvis/bip_spine_0/bip_spine_1/bip_spine_2/bip_collar_R/bip_upperArm_R/bip_lowerArm_R/arm
+      right elbow ctr/arm right elbow ctr2/arm right elbow ctr2_end
+    m_Weight: 1
+  - m_Path: chunli.qc_skeleton/rootTransform/bip_pelvis/bip_spine_0/bip_spine_1/bip_spine_2/bip_collar_R/bip_upperArm_R/bip_lowerArm_R/arm
+      right elbow ctr3
+    m_Weight: 1
+  - m_Path: chunli.qc_skeleton/rootTransform/bip_pelvis/bip_spine_0/bip_spine_1/bip_spine_2/bip_collar_R/bip_upperArm_R/bip_lowerArm_R/arm
+      right elbow ctr3/arm right elbow ctr3_end
+    m_Weight: 1
+  - m_Path: chunli.qc_skeleton/rootTransform/bip_pelvis/bip_spine_0/bip_spine_1/bip_spine_2/bip_collar_R/bip_upperArm_R/bip_lowerArm_R/arm
+      right elbow ctr4
+    m_Weight: 1
+  - m_Path: chunli.qc_skeleton/rootTransform/bip_pelvis/bip_spine_0/bip_spine_1/bip_spine_2/bip_collar_R/bip_upperArm_R/bip_lowerArm_R/arm
+      right elbow ctr4/arm right elbow ctr4_end
+    m_Weight: 1
+  - m_Path: chunli.qc_skeleton/rootTransform/bip_pelvis/bip_spine_0/bip_spine_1/bip_spine_2/bip_collar_R/bip_upperArm_R/bip_lowerArm_R/arm
+      right wrist ctr
+    m_Weight: 1
+  - m_Path: chunli.qc_skeleton/rootTransform/bip_pelvis/bip_spine_0/bip_spine_1/bip_spine_2/bip_collar_R/bip_upperArm_R/bip_lowerArm_R/arm
+      right wrist ctr/arm right wrist ctr_end
+    m_Weight: 1
+  - m_Path: chunli.qc_skeleton/rootTransform/bip_pelvis/bip_spine_0/bip_spine_1/bip_spine_2/bip_collar_R/bip_upperArm_R/bip_lowerArm_R/bip_hand_R
+    m_Weight: 1
+  - m_Path: chunli.qc_skeleton/rootTransform/bip_pelvis/bip_spine_0/bip_spine_1/bip_spine_2/bip_collar_R/bip_upperArm_R/bip_lowerArm_R/bip_hand_R/arm
+      right finger 2
+    m_Weight: 1
+  - m_Path: chunli.qc_skeleton/rootTransform/bip_pelvis/bip_spine_0/bip_spine_1/bip_spine_2/bip_collar_R/bip_upperArm_R/bip_lowerArm_R/bip_hand_R/arm
+      right finger 2/bip_index_0_R
+    m_Weight: 1
+  - m_Path: chunli.qc_skeleton/rootTransform/bip_pelvis/bip_spine_0/bip_spine_1/bip_spine_2/bip_collar_R/bip_upperArm_R/bip_lowerArm_R/bip_hand_R/arm
+      right finger 2/bip_index_0_R/arm right finger 2a ctr
+    m_Weight: 1
+  - m_Path: chunli.qc_skeleton/rootTransform/bip_pelvis/bip_spine_0/bip_spine_1/bip_spine_2/bip_collar_R/bip_upperArm_R/bip_lowerArm_R/bip_hand_R/arm
+      right finger 2/bip_index_0_R/arm right finger 2a ctr/arm right finger 2a ctr_end
+    m_Weight: 1
+  - m_Path: chunli.qc_skeleton/rootTransform/bip_pelvis/bip_spine_0/bip_spine_1/bip_spine_2/bip_collar_R/bip_upperArm_R/bip_lowerArm_R/bip_hand_R/arm
+      right finger 2/bip_index_0_R/bip_index_1_R
+    m_Weight: 1
+  - m_Path: chunli.qc_skeleton/rootTransform/bip_pelvis/bip_spine_0/bip_spine_1/bip_spine_2/bip_collar_R/bip_upperArm_R/bip_lowerArm_R/bip_hand_R/arm
+      right finger 2/bip_index_0_R/bip_index_1_R/arm right finger 2b ctr
+    m_Weight: 1
+  - m_Path: chunli.qc_skeleton/rootTransform/bip_pelvis/bip_spine_0/bip_spine_1/bip_spine_2/bip_collar_R/bip_upperArm_R/bip_lowerArm_R/bip_hand_R/arm
+      right finger 2/bip_index_0_R/bip_index_1_R/arm right finger 2b ctr/arm right
+      finger 2b ctr_end
+    m_Weight: 1
+  - m_Path: chunli.qc_skeleton/rootTransform/bip_pelvis/bip_spine_0/bip_spine_1/bip_spine_2/bip_collar_R/bip_upperArm_R/bip_lowerArm_R/bip_hand_R/arm
+      right finger 2/bip_index_0_R/bip_index_1_R/bip_index_2_R
+    m_Weight: 1
+  - m_Path: chunli.qc_skeleton/rootTransform/bip_pelvis/bip_spine_0/bip_spine_1/bip_spine_2/bip_collar_R/bip_upperArm_R/bip_lowerArm_R/bip_hand_R/arm
+      right finger 2/bip_index_0_R/bip_index_1_R/bip_index_2_R/arm right finger 2c
+      ctr
+    m_Weight: 1
+  - m_Path: chunli.qc_skeleton/rootTransform/bip_pelvis/bip_spine_0/bip_spine_1/bip_spine_2/bip_collar_R/bip_upperArm_R/bip_lowerArm_R/bip_hand_R/arm
+      right finger 2/bip_index_0_R/bip_index_1_R/bip_index_2_R/arm right finger 2c
+      ctr/arm right finger 2c ctr_end
+    m_Weight: 1
+  - m_Path: chunli.qc_skeleton/rootTransform/bip_pelvis/bip_spine_0/bip_spine_1/bip_spine_2/bip_collar_R/bip_upperArm_R/bip_lowerArm_R/bip_hand_R/arm
+      right finger 3
+    m_Weight: 1
+  - m_Path: chunli.qc_skeleton/rootTransform/bip_pelvis/bip_spine_0/bip_spine_1/bip_spine_2/bip_collar_R/bip_upperArm_R/bip_lowerArm_R/bip_hand_R/arm
+      right finger 3/bip_middle_0_R
+    m_Weight: 1
+  - m_Path: chunli.qc_skeleton/rootTransform/bip_pelvis/bip_spine_0/bip_spine_1/bip_spine_2/bip_collar_R/bip_upperArm_R/bip_lowerArm_R/bip_hand_R/arm
+      right finger 3/bip_middle_0_R/arm right finger 3a ctr
+    m_Weight: 1
+  - m_Path: chunli.qc_skeleton/rootTransform/bip_pelvis/bip_spine_0/bip_spine_1/bip_spine_2/bip_collar_R/bip_upperArm_R/bip_lowerArm_R/bip_hand_R/arm
+      right finger 3/bip_middle_0_R/arm right finger 3a ctr/arm right finger 3a ctr_end
+    m_Weight: 1
+  - m_Path: chunli.qc_skeleton/rootTransform/bip_pelvis/bip_spine_0/bip_spine_1/bip_spine_2/bip_collar_R/bip_upperArm_R/bip_lowerArm_R/bip_hand_R/arm
+      right finger 3/bip_middle_0_R/bip_middle_1_R
+    m_Weight: 1
+  - m_Path: chunli.qc_skeleton/rootTransform/bip_pelvis/bip_spine_0/bip_spine_1/bip_spine_2/bip_collar_R/bip_upperArm_R/bip_lowerArm_R/bip_hand_R/arm
+      right finger 3/bip_middle_0_R/bip_middle_1_R/arm right finger 3b ctr
+    m_Weight: 1
+  - m_Path: chunli.qc_skeleton/rootTransform/bip_pelvis/bip_spine_0/bip_spine_1/bip_spine_2/bip_collar_R/bip_upperArm_R/bip_lowerArm_R/bip_hand_R/arm
+      right finger 3/bip_middle_0_R/bip_middle_1_R/arm right finger 3b ctr/arm right
+      finger 3b ctr_end
+    m_Weight: 1
+  - m_Path: chunli.qc_skeleton/rootTransform/bip_pelvis/bip_spine_0/bip_spine_1/bip_spine_2/bip_collar_R/bip_upperArm_R/bip_lowerArm_R/bip_hand_R/arm
+      right finger 3/bip_middle_0_R/bip_middle_1_R/bip_middle_2_R
+    m_Weight: 1
+  - m_Path: chunli.qc_skeleton/rootTransform/bip_pelvis/bip_spine_0/bip_spine_1/bip_spine_2/bip_collar_R/bip_upperArm_R/bip_lowerArm_R/bip_hand_R/arm
+      right finger 3/bip_middle_0_R/bip_middle_1_R/bip_middle_2_R/arm right finger
+      3c ctr
+    m_Weight: 1
+  - m_Path: chunli.qc_skeleton/rootTransform/bip_pelvis/bip_spine_0/bip_spine_1/bip_spine_2/bip_collar_R/bip_upperArm_R/bip_lowerArm_R/bip_hand_R/arm
+      right finger 3/bip_middle_0_R/bip_middle_1_R/bip_middle_2_R/arm right finger
+      3c ctr/arm right finger 3c ctr_end
+    m_Weight: 1
+  - m_Path: chunli.qc_skeleton/rootTransform/bip_pelvis/bip_spine_0/bip_spine_1/bip_spine_2/bip_collar_R/bip_upperArm_R/bip_lowerArm_R/bip_hand_R/arm
+      right finger 4
+    m_Weight: 1
+  - m_Path: chunli.qc_skeleton/rootTransform/bip_pelvis/bip_spine_0/bip_spine_1/bip_spine_2/bip_collar_R/bip_upperArm_R/bip_lowerArm_R/bip_hand_R/arm
+      right finger 4/bip_ring_0_R
+    m_Weight: 1
+  - m_Path: chunli.qc_skeleton/rootTransform/bip_pelvis/bip_spine_0/bip_spine_1/bip_spine_2/bip_collar_R/bip_upperArm_R/bip_lowerArm_R/bip_hand_R/arm
+      right finger 4/bip_ring_0_R/arm right finger 4a ctr
+    m_Weight: 1
+  - m_Path: chunli.qc_skeleton/rootTransform/bip_pelvis/bip_spine_0/bip_spine_1/bip_spine_2/bip_collar_R/bip_upperArm_R/bip_lowerArm_R/bip_hand_R/arm
+      right finger 4/bip_ring_0_R/arm right finger 4a ctr/arm right finger 4a ctr_end
+    m_Weight: 1
+  - m_Path: chunli.qc_skeleton/rootTransform/bip_pelvis/bip_spine_0/bip_spine_1/bip_spine_2/bip_collar_R/bip_upperArm_R/bip_lowerArm_R/bip_hand_R/arm
+      right finger 4/bip_ring_0_R/bip_ring_1_R
+    m_Weight: 1
+  - m_Path: chunli.qc_skeleton/rootTransform/bip_pelvis/bip_spine_0/bip_spine_1/bip_spine_2/bip_collar_R/bip_upperArm_R/bip_lowerArm_R/bip_hand_R/arm
+      right finger 4/bip_ring_0_R/bip_ring_1_R/arm right finger 4b ctr
+    m_Weight: 1
+  - m_Path: chunli.qc_skeleton/rootTransform/bip_pelvis/bip_spine_0/bip_spine_1/bip_spine_2/bip_collar_R/bip_upperArm_R/bip_lowerArm_R/bip_hand_R/arm
+      right finger 4/bip_ring_0_R/bip_ring_1_R/arm right finger 4b ctr/arm right
+      finger 4b ctr_end
+    m_Weight: 1
+  - m_Path: chunli.qc_skeleton/rootTransform/bip_pelvis/bip_spine_0/bip_spine_1/bip_spine_2/bip_collar_R/bip_upperArm_R/bip_lowerArm_R/bip_hand_R/arm
+      right finger 4/bip_ring_0_R/bip_ring_1_R/bip_ring_2_R
+    m_Weight: 1
+  - m_Path: chunli.qc_skeleton/rootTransform/bip_pelvis/bip_spine_0/bip_spine_1/bip_spine_2/bip_collar_R/bip_upperArm_R/bip_lowerArm_R/bip_hand_R/arm
+      right finger 4/bip_ring_0_R/bip_ring_1_R/bip_ring_2_R/arm right finger 4c ctr
+    m_Weight: 1
+  - m_Path: chunli.qc_skeleton/rootTransform/bip_pelvis/bip_spine_0/bip_spine_1/bip_spine_2/bip_collar_R/bip_upperArm_R/bip_lowerArm_R/bip_hand_R/arm
+      right finger 4/bip_ring_0_R/bip_ring_1_R/bip_ring_2_R/arm right finger 4c ctr/arm
+      right finger 4c ctr_end
+    m_Weight: 1
+  - m_Path: chunli.qc_skeleton/rootTransform/bip_pelvis/bip_spine_0/bip_spine_1/bip_spine_2/bip_collar_R/bip_upperArm_R/bip_lowerArm_R/bip_hand_R/arm
+      right finger 5
+    m_Weight: 1
+  - m_Path: chunli.qc_skeleton/rootTransform/bip_pelvis/bip_spine_0/bip_spine_1/bip_spine_2/bip_collar_R/bip_upperArm_R/bip_lowerArm_R/bip_hand_R/arm
+      right finger 5/bip_pinky_0_R
+    m_Weight: 1
+  - m_Path: chunli.qc_skeleton/rootTransform/bip_pelvis/bip_spine_0/bip_spine_1/bip_spine_2/bip_collar_R/bip_upperArm_R/bip_lowerArm_R/bip_hand_R/arm
+      right finger 5/bip_pinky_0_R/arm right finger 5a ctr
+    m_Weight: 1
+  - m_Path: chunli.qc_skeleton/rootTransform/bip_pelvis/bip_spine_0/bip_spine_1/bip_spine_2/bip_collar_R/bip_upperArm_R/bip_lowerArm_R/bip_hand_R/arm
+      right finger 5/bip_pinky_0_R/arm right finger 5a ctr/arm right finger 5a ctr_end
+    m_Weight: 1
+  - m_Path: chunli.qc_skeleton/rootTransform/bip_pelvis/bip_spine_0/bip_spine_1/bip_spine_2/bip_collar_R/bip_upperArm_R/bip_lowerArm_R/bip_hand_R/arm
+      right finger 5/bip_pinky_0_R/bip_pinky_1_R
+    m_Weight: 1
+  - m_Path: chunli.qc_skeleton/rootTransform/bip_pelvis/bip_spine_0/bip_spine_1/bip_spine_2/bip_collar_R/bip_upperArm_R/bip_lowerArm_R/bip_hand_R/arm
+      right finger 5/bip_pinky_0_R/bip_pinky_1_R/arm right finger 5b ctr
+    m_Weight: 1
+  - m_Path: chunli.qc_skeleton/rootTransform/bip_pelvis/bip_spine_0/bip_spine_1/bip_spine_2/bip_collar_R/bip_upperArm_R/bip_lowerArm_R/bip_hand_R/arm
+      right finger 5/bip_pinky_0_R/bip_pinky_1_R/arm right finger 5b ctr/arm right
+      finger 5b ctr_end
+    m_Weight: 1
+  - m_Path: chunli.qc_skeleton/rootTransform/bip_pelvis/bip_spine_0/bip_spine_1/bip_spine_2/bip_collar_R/bip_upperArm_R/bip_lowerArm_R/bip_hand_R/arm
+      right finger 5/bip_pinky_0_R/bip_pinky_1_R/bip_pinky_2_R
+    m_Weight: 1
+  - m_Path: chunli.qc_skeleton/rootTransform/bip_pelvis/bip_spine_0/bip_spine_1/bip_spine_2/bip_collar_R/bip_upperArm_R/bip_lowerArm_R/bip_hand_R/arm
+      right finger 5/bip_pinky_0_R/bip_pinky_1_R/bip_pinky_2_R/arm right finger 5c
+      ctr
+    m_Weight: 1
+  - m_Path: chunli.qc_skeleton/rootTransform/bip_pelvis/bip_spine_0/bip_spine_1/bip_spine_2/bip_collar_R/bip_upperArm_R/bip_lowerArm_R/bip_hand_R/arm
+      right finger 5/bip_pinky_0_R/bip_pinky_1_R/bip_pinky_2_R/arm right finger 5c
+      ctr/arm right finger 5c ctr_end
+    m_Weight: 1
+  - m_Path: chunli.qc_skeleton/rootTransform/bip_pelvis/bip_spine_0/bip_spine_1/bip_spine_2/bip_collar_R/bip_upperArm_R/bip_lowerArm_R/bip_hand_R/arm
+      right wrist ctr2
+    m_Weight: 1
+  - m_Path: chunli.qc_skeleton/rootTransform/bip_pelvis/bip_spine_0/bip_spine_1/bip_spine_2/bip_collar_R/bip_upperArm_R/bip_lowerArm_R/bip_hand_R/arm
+      right wrist ctr2/arm right wrist ctr2_end
+    m_Weight: 1
+  - m_Path: chunli.qc_skeleton/rootTransform/bip_pelvis/bip_spine_0/bip_spine_1/bip_spine_2/bip_collar_R/bip_upperArm_R/bip_lowerArm_R/bip_hand_R/arm
+      right wrist ctr3
+    m_Weight: 1
+  - m_Path: chunli.qc_skeleton/rootTransform/bip_pelvis/bip_spine_0/bip_spine_1/bip_spine_2/bip_collar_R/bip_upperArm_R/bip_lowerArm_R/bip_hand_R/arm
+      right wrist ctr3/arm right wrist ctr3_end
+    m_Weight: 1
+  - m_Path: chunli.qc_skeleton/rootTransform/bip_pelvis/bip_spine_0/bip_spine_1/bip_spine_2/bip_collar_R/bip_upperArm_R/bip_lowerArm_R/bip_hand_R/bip_thumb_0_R
+    m_Weight: 1
+  - m_Path: chunli.qc_skeleton/rootTransform/bip_pelvis/bip_spine_0/bip_spine_1/bip_spine_2/bip_collar_R/bip_upperArm_R/bip_lowerArm_R/bip_hand_R/bip_thumb_0_R/bip_thumb_1_R
+    m_Weight: 1
+  - m_Path: chunli.qc_skeleton/rootTransform/bip_pelvis/bip_spine_0/bip_spine_1/bip_spine_2/bip_collar_R/bip_upperArm_R/bip_lowerArm_R/bip_hand_R/bip_thumb_0_R/bip_thumb_1_R/arm
+      right finger 1b ctr
+    m_Weight: 1
+  - m_Path: chunli.qc_skeleton/rootTransform/bip_pelvis/bip_spine_0/bip_spine_1/bip_spine_2/bip_collar_R/bip_upperArm_R/bip_lowerArm_R/bip_hand_R/bip_thumb_0_R/bip_thumb_1_R/arm
+      right finger 1b ctr/arm right finger 1b ctr_end
+    m_Weight: 1
+  - m_Path: chunli.qc_skeleton/rootTransform/bip_pelvis/bip_spine_0/bip_spine_1/bip_spine_2/bip_collar_R/bip_upperArm_R/bip_lowerArm_R/bip_hand_R/bip_thumb_0_R/bip_thumb_1_R/bip_thumb_2_R
+    m_Weight: 1
+  - m_Path: chunli.qc_skeleton/rootTransform/bip_pelvis/bip_spine_0/bip_spine_1/bip_spine_2/bip_collar_R/bip_upperArm_R/bip_lowerArm_R/bip_hand_R/bip_thumb_0_R/bip_thumb_1_R/bip_thumb_2_R/arm
+      right finger 1c ctr
+    m_Weight: 1
+  - m_Path: chunli.qc_skeleton/rootTransform/bip_pelvis/bip_spine_0/bip_spine_1/bip_spine_2/bip_collar_R/bip_upperArm_R/bip_lowerArm_R/bip_hand_R/bip_thumb_0_R/bip_thumb_1_R/bip_thumb_2_R/arm
+      right finger 1c ctr/arm right finger 1c ctr_end
+    m_Weight: 1
+  - m_Path: chunli.qc_skeleton/rootTransform/bip_pelvis/bip_spine_0/bip_spine_1/bip_spine_2/bip_collar_R/bip_upperArm_R/sleeves
+      right
+    m_Weight: 1
+  - m_Path: chunli.qc_skeleton/rootTransform/bip_pelvis/bip_spine_0/bip_spine_1/bip_spine_2/bip_collar_R/bip_upperArm_R/sleeves
+      right/sleeves right_end
+    m_Weight: 1
+  - m_Path: chunli.qc_skeleton/rootTransform/bip_pelvis/bip_spine_0/bip_spine_1/bip_spine_2/bip_collar_R/unusedb_R_ShoulderHelper
+    m_Weight: 1
+  - m_Path: chunli.qc_skeleton/rootTransform/bip_pelvis/bip_spine_0/bip_spine_1/bip_spine_2/bip_collar_R/unusedb_R_ShoulderHelper/unusedb_R_ShoulderHelper_end
+    m_Weight: 1
+  - m_Path: chunli.qc_skeleton/rootTransform/bip_pelvis/bip_spine_0/bip_spine_1/bip_spine_2/bip_neck
+    m_Weight: 1
+  - m_Path: chunli.qc_skeleton/rootTransform/bip_pelvis/bip_spine_0/bip_spine_1/bip_spine_2/bip_neck/bip_head
+    m_Weight: 1
+  - m_Path: chunli.qc_skeleton/rootTransform/bip_pelvis/bip_spine_0/bip_spine_1/bip_spine_2/bip_neck/bip_head/head
+      neck ctr
+    m_Weight: 1
+  - m_Path: chunli.qc_skeleton/rootTransform/bip_pelvis/bip_spine_0/bip_spine_1/bip_spine_2/bip_neck/bip_head/head
+      neck ctr/head neck ctr_end
+    m_Weight: 1
+  - m_Path: chunli.qc_skeleton/rootTransform/bip_pelvis/bip_spine_0/bip_spine_1/bip_spine_2/bip_neck/bip_head/ribbon
+      left 2a
+    m_Weight: 1
+  - m_Path: chunli.qc_skeleton/rootTransform/bip_pelvis/bip_spine_0/bip_spine_1/bip_spine_2/bip_neck/bip_head/ribbon
+      left 2a/ribbon left 2a_end
+    m_Weight: 1
+  - m_Path: chunli.qc_skeleton/rootTransform/bip_pelvis/bip_spine_0/bip_spine_1/bip_spine_2/bip_neck/bip_head/ribbon
+      left 2b
+    m_Weight: 1
+  - m_Path: chunli.qc_skeleton/rootTransform/bip_pelvis/bip_spine_0/bip_spine_1/bip_spine_2/bip_neck/bip_head/ribbon
+      left 2b/ribbon left 2c
+    m_Weight: 1
+  - m_Path: chunli.qc_skeleton/rootTransform/bip_pelvis/bip_spine_0/bip_spine_1/bip_spine_2/bip_neck/bip_head/ribbon
+      left 2b/ribbon left 2c/ribbon left 2d
+    m_Weight: 1
+  - m_Path: chunli.qc_skeleton/rootTransform/bip_pelvis/bip_spine_0/bip_spine_1/bip_spine_2/bip_neck/bip_head/ribbon
+      left 2b/ribbon left 2c/ribbon left 2d/ribbon left 2e
+    m_Weight: 1
+  - m_Path: chunli.qc_skeleton/rootTransform/bip_pelvis/bip_spine_0/bip_spine_1/bip_spine_2/bip_neck/bip_head/ribbon
+      left 2b/ribbon left 2c/ribbon left 2d/ribbon left 2e/ribbon left 2e_end
+    m_Weight: 1
+  - m_Path: chunli.qc_skeleton/rootTransform/bip_pelvis/bip_spine_0/bip_spine_1/bip_spine_2/bip_neck/bip_head/ribbon
+      left a
+    m_Weight: 1
+  - m_Path: chunli.qc_skeleton/rootTransform/bip_pelvis/bip_spine_0/bip_spine_1/bip_spine_2/bip_neck/bip_head/ribbon
+      left a/ribbon left a_end
+    m_Weight: 1
+  - m_Path: chunli.qc_skeleton/rootTransform/bip_pelvis/bip_spine_0/bip_spine_1/bip_spine_2/bip_neck/bip_head/ribbon
+      left b
+    m_Weight: 1
+  - m_Path: chunli.qc_skeleton/rootTransform/bip_pelvis/bip_spine_0/bip_spine_1/bip_spine_2/bip_neck/bip_head/ribbon
+      left b/ribbon left c
+    m_Weight: 1
+  - m_Path: chunli.qc_skeleton/rootTransform/bip_pelvis/bip_spine_0/bip_spine_1/bip_spine_2/bip_neck/bip_head/ribbon
+      left b/ribbon left c/ribbon left d
+    m_Weight: 1
+  - m_Path: chunli.qc_skeleton/rootTransform/bip_pelvis/bip_spine_0/bip_spine_1/bip_spine_2/bip_neck/bip_head/ribbon
+      left b/ribbon left c/ribbon left d/ribbon left e
+    m_Weight: 1
+  - m_Path: chunli.qc_skeleton/rootTransform/bip_pelvis/bip_spine_0/bip_spine_1/bip_spine_2/bip_neck/bip_head/ribbon
+      left b/ribbon left c/ribbon left d/ribbon left e/ribbon left e_end
+    m_Weight: 1
+  - m_Path: chunli.qc_skeleton/rootTransform/bip_pelvis/bip_spine_0/bip_spine_1/bip_spine_2/bip_neck/bip_head/ribbon
+      right 2a
+    m_Weight: 1
+  - m_Path: chunli.qc_skeleton/rootTransform/bip_pelvis/bip_spine_0/bip_spine_1/bip_spine_2/bip_neck/bip_head/ribbon
+      right 2a/ribbon right 2a_end
+    m_Weight: 1
+  - m_Path: chunli.qc_skeleton/rootTransform/bip_pelvis/bip_spine_0/bip_spine_1/bip_spine_2/bip_neck/bip_head/ribbon
+      right 2b
+    m_Weight: 1
+  - m_Path: chunli.qc_skeleton/rootTransform/bip_pelvis/bip_spine_0/bip_spine_1/bip_spine_2/bip_neck/bip_head/ribbon
+      right 2b/ribbon right 2c
+    m_Weight: 1
+  - m_Path: chunli.qc_skeleton/rootTransform/bip_pelvis/bip_spine_0/bip_spine_1/bip_spine_2/bip_neck/bip_head/ribbon
+      right 2b/ribbon right 2c/ribbon right 2d
+    m_Weight: 1
+  - m_Path: chunli.qc_skeleton/rootTransform/bip_pelvis/bip_spine_0/bip_spine_1/bip_spine_2/bip_neck/bip_head/ribbon
+      right 2b/ribbon right 2c/ribbon right 2d/ribbon right 2e
+    m_Weight: 1
+  - m_Path: chunli.qc_skeleton/rootTransform/bip_pelvis/bip_spine_0/bip_spine_1/bip_spine_2/bip_neck/bip_head/ribbon
+      right 2b/ribbon right 2c/ribbon right 2d/ribbon right 2e/ribbon right 2e_end
+    m_Weight: 1
+  - m_Path: chunli.qc_skeleton/rootTransform/bip_pelvis/bip_spine_0/bip_spine_1/bip_spine_2/bip_neck/bip_head/ribbon
+      right a
+    m_Weight: 1
+  - m_Path: chunli.qc_skeleton/rootTransform/bip_pelvis/bip_spine_0/bip_spine_1/bip_spine_2/bip_neck/bip_head/ribbon
+      right a/ribbon right a_end
+    m_Weight: 1
+  - m_Path: chunli.qc_skeleton/rootTransform/bip_pelvis/bip_spine_0/bip_spine_1/bip_spine_2/bip_neck/bip_head/ribbon
+      right b
+    m_Weight: 1
+  - m_Path: chunli.qc_skeleton/rootTransform/bip_pelvis/bip_spine_0/bip_spine_1/bip_spine_2/bip_neck/bip_head/ribbon
+      right b/ribbon right c
+    m_Weight: 1
+  - m_Path: chunli.qc_skeleton/rootTransform/bip_pelvis/bip_spine_0/bip_spine_1/bip_spine_2/bip_neck/bip_head/ribbon
+      right b/ribbon right c/ribbon right d
+    m_Weight: 1
+  - m_Path: chunli.qc_skeleton/rootTransform/bip_pelvis/bip_spine_0/bip_spine_1/bip_spine_2/bip_neck/bip_head/ribbon
+      right b/ribbon right c/ribbon right d/ribbon right e
+    m_Weight: 1
+  - m_Path: chunli.qc_skeleton/rootTransform/bip_pelvis/bip_spine_0/bip_spine_1/bip_spine_2/bip_neck/bip_head/ribbon
+      right b/ribbon right c/ribbon right d/ribbon right e/ribbon right e_end
+    m_Weight: 1
+  - m_Path: chunli.qc_skeleton/rootTransform/bip_pelvis/bip_spine_0/bip_spine_1/bip_spine_2/bip_neck/head
+      neck ctr ctr2
+    m_Weight: 1
+  - m_Path: chunli.qc_skeleton/rootTransform/bip_pelvis/bip_spine_0/bip_spine_1/bip_spine_2/bip_neck/head
+      neck ctr ctr2/head neck ctr ctr2_end
+    m_Weight: 1
+  - m_Path: chunli.qc_skeleton/rootTransform/bip_pelvis/bip_spine_0/bip_spine_1/bip_spine_2/bip_neck/head
+      neck ctr ctr3
+    m_Weight: 1
+  - m_Path: chunli.qc_skeleton/rootTransform/bip_pelvis/bip_spine_0/bip_spine_1/bip_spine_2/bip_neck/head
+      neck ctr ctr3/head neck ctr ctr3_end
+    m_Weight: 1
+  - m_Path: chunli.qc_skeleton/rootTransform/bip_pelvis/bip_spine_0/bip_spine_1/bip_spine_2/breast
+      left
+    m_Weight: 1
+  - m_Path: chunli.qc_skeleton/rootTransform/bip_pelvis/bip_spine_0/bip_spine_1/bip_spine_2/breast
+      left/breast left_end
+    m_Weight: 1
+  - m_Path: chunli.qc_skeleton/rootTransform/bip_pelvis/bip_spine_0/bip_spine_1/bip_spine_2/breast
+      right
+    m_Weight: 1
+  - m_Path: chunli.qc_skeleton/rootTransform/bip_pelvis/bip_spine_0/bip_spine_1/bip_spine_2/breast
+      right/breast right_end
+    m_Weight: 1
+  - m_Path: chunli.qc_skeleton/rootTransform/bip_pelvis/dress back a
+    m_Weight: 1
+  - m_Path: chunli.qc_skeleton/rootTransform/bip_pelvis/dress back a/dress back b
+    m_Weight: 1
+  - m_Path: chunli.qc_skeleton/rootTransform/bip_pelvis/dress back a/dress back b/dress
+      back c
+    m_Weight: 1
+  - m_Path: chunli.qc_skeleton/rootTransform/bip_pelvis/dress back a/dress back b/dress
+      back c/dress back d
+    m_Weight: 1
+  - m_Path: chunli.qc_skeleton/rootTransform/bip_pelvis/dress back a/dress back b/dress
+      back c/dress back d/dress back e
+    m_Weight: 1
+  - m_Path: chunli.qc_skeleton/rootTransform/bip_pelvis/dress back a/dress back b/dress
+      back c/dress back d/dress back e/dress back f
+    m_Weight: 1
+  - m_Path: chunli.qc_skeleton/rootTransform/bip_pelvis/dress back a/dress back b/dress
+      back c/dress back d/dress back e/dress back f/dress back f_end
+    m_Weight: 1
+  - m_Path: chunli.qc_skeleton/rootTransform/bip_pelvis/dress left back 2a
+    m_Weight: 1
+  - m_Path: chunli.qc_skeleton/rootTransform/bip_pelvis/dress left back 2a/dress
+      left back 2b
+    m_Weight: 1
+  - m_Path: chunli.qc_skeleton/rootTransform/bip_pelvis/dress left back 2a/dress
+      left back 2b/dress left back 2c
+    m_Weight: 1
+  - m_Path: chunli.qc_skeleton/rootTransform/bip_pelvis/dress left back 2a/dress
+      left back 2b/dress left back 2c/dress left back 2d
+    m_Weight: 1
+  - m_Path: chunli.qc_skeleton/rootTransform/bip_pelvis/dress left back 2a/dress
+      left back 2b/dress left back 2c/dress left back 2d/dress left back 2e
+    m_Weight: 1
+  - m_Path: chunli.qc_skeleton/rootTransform/bip_pelvis/dress left back 2a/dress
+      left back 2b/dress left back 2c/dress left back 2d/dress left back 2e/dress
+      left back 2f
+    m_Weight: 1
+  - m_Path: chunli.qc_skeleton/rootTransform/bip_pelvis/dress left back 2a/dress
+      left back 2b/dress left back 2c/dress left back 2d/dress left back 2e/dress
+      left back 2f/dress left back 2f_end
+    m_Weight: 1
+  - m_Path: chunli.qc_skeleton/rootTransform/bip_pelvis/dress left back a
+    m_Weight: 1
+  - m_Path: chunli.qc_skeleton/rootTransform/bip_pelvis/dress left back a/dress left
+      back b
+    m_Weight: 1
+  - m_Path: chunli.qc_skeleton/rootTransform/bip_pelvis/dress left back a/dress left
+      back b/dress left back c
+    m_Weight: 1
+  - m_Path: chunli.qc_skeleton/rootTransform/bip_pelvis/dress left back a/dress left
+      back b/dress left back c/dress left back d
+    m_Weight: 1
+  - m_Path: chunli.qc_skeleton/rootTransform/bip_pelvis/dress left back a/dress left
+      back b/dress left back c/dress left back d/dress left back e
+    m_Weight: 1
+  - m_Path: chunli.qc_skeleton/rootTransform/bip_pelvis/dress left back a/dress left
+      back b/dress left back c/dress left back d/dress left back e/dress left back
+      f
+    m_Weight: 1
+  - m_Path: chunli.qc_skeleton/rootTransform/bip_pelvis/dress left back a/dress left
+      back b/dress left back c/dress left back d/dress left back e/dress left back
+      f/dress left back f_end
+    m_Weight: 1
+  - m_Path: chunli.qc_skeleton/rootTransform/bip_pelvis/dress left front 2a
+    m_Weight: 1
+  - m_Path: chunli.qc_skeleton/rootTransform/bip_pelvis/dress left front 2a/dress
+      left front 2b
+    m_Weight: 1
+  - m_Path: chunli.qc_skeleton/rootTransform/bip_pelvis/dress left front 2a/dress
+      left front 2b/dress left front 2c
+    m_Weight: 1
+  - m_Path: chunli.qc_skeleton/rootTransform/bip_pelvis/dress left front 2a/dress
+      left front 2b/dress left front 2c/dress left front 2d
+    m_Weight: 1
+  - m_Path: chunli.qc_skeleton/rootTransform/bip_pelvis/dress left front 2a/dress
+      left front 2b/dress left front 2c/dress left front 2d/dress left front 2e
+    m_Weight: 1
+  - m_Path: chunli.qc_skeleton/rootTransform/bip_pelvis/dress left front 2a/dress
+      left front 2b/dress left front 2c/dress left front 2d/dress left front 2e/dress
+      left front 2e_end
+    m_Weight: 1
+  - m_Path: chunli.qc_skeleton/rootTransform/bip_pelvis/dress left front a
+    m_Weight: 1
+  - m_Path: chunli.qc_skeleton/rootTransform/bip_pelvis/dress left front a/dress
+      left front b
+    m_Weight: 1
+  - m_Path: chunli.qc_skeleton/rootTransform/bip_pelvis/dress left front a/dress
+      left front b/dress left front c
+    m_Weight: 1
+  - m_Path: chunli.qc_skeleton/rootTransform/bip_pelvis/dress left front a/dress
+      left front b/dress left front c/dress left front d
+    m_Weight: 1
+  - m_Path: chunli.qc_skeleton/rootTransform/bip_pelvis/dress left front a/dress
+      left front b/dress left front c/dress left front d/dress left front e
+    m_Weight: 1
+  - m_Path: chunli.qc_skeleton/rootTransform/bip_pelvis/dress left front a/dress
+      left front b/dress left front c/dress left front d/dress left front e/dress
+      left front e_end
+    m_Weight: 1
+  - m_Path: chunli.qc_skeleton/rootTransform/bip_pelvis/dress middle a
+    m_Weight: 1
+  - m_Path: chunli.qc_skeleton/rootTransform/bip_pelvis/dress middle a/dress middle
+      b
+    m_Weight: 1
+  - m_Path: chunli.qc_skeleton/rootTransform/bip_pelvis/dress middle a/dress middle
+      b/dress middle c
+    m_Weight: 1
+  - m_Path: chunli.qc_skeleton/rootTransform/bip_pelvis/dress middle a/dress middle
+      b/dress middle c/dress middle d
+    m_Weight: 1
+  - m_Path: chunli.qc_skeleton/rootTransform/bip_pelvis/dress middle a/dress middle
+      b/dress middle c/dress middle d/dress middle e
+    m_Weight: 1
+  - m_Path: chunli.qc_skeleton/rootTransform/bip_pelvis/dress middle a/dress middle
+      b/dress middle c/dress middle d/dress middle e/dress middle e_end
+    m_Weight: 1
+  - m_Path: chunli.qc_skeleton/rootTransform/bip_pelvis/dress right back 2a
+    m_Weight: 1
+  - m_Path: chunli.qc_skeleton/rootTransform/bip_pelvis/dress right back 2a/dress
+      right back 2b
+    m_Weight: 1
+  - m_Path: chunli.qc_skeleton/rootTransform/bip_pelvis/dress right back 2a/dress
+      right back 2b/dress right back 2c
+    m_Weight: 1
+  - m_Path: chunli.qc_skeleton/rootTransform/bip_pelvis/dress right back 2a/dress
+      right back 2b/dress right back 2c/dress right back 2d
+    m_Weight: 1
+  - m_Path: chunli.qc_skeleton/rootTransform/bip_pelvis/dress right back 2a/dress
+      right back 2b/dress right back 2c/dress right back 2d/dress right back 2e
+    m_Weight: 1
+  - m_Path: chunli.qc_skeleton/rootTransform/bip_pelvis/dress right back 2a/dress
+      right back 2b/dress right back 2c/dress right back 2d/dress right back 2e/dress
+      right back 2f
+    m_Weight: 1
+  - m_Path: chunli.qc_skeleton/rootTransform/bip_pelvis/dress right back 2a/dress
+      right back 2b/dress right back 2c/dress right back 2d/dress right back 2e/dress
+      right back 2f/dress right back 2f_end
+    m_Weight: 1
+  - m_Path: chunli.qc_skeleton/rootTransform/bip_pelvis/dress right back a
+    m_Weight: 1
+  - m_Path: chunli.qc_skeleton/rootTransform/bip_pelvis/dress right back a/dress
+      right back b
+    m_Weight: 1
+  - m_Path: chunli.qc_skeleton/rootTransform/bip_pelvis/dress right back a/dress
+      right back b/dress right back c
+    m_Weight: 1
+  - m_Path: chunli.qc_skeleton/rootTransform/bip_pelvis/dress right back a/dress
+      right back b/dress right back c/dress right back d
+    m_Weight: 1
+  - m_Path: chunli.qc_skeleton/rootTransform/bip_pelvis/dress right back a/dress
+      right back b/dress right back c/dress right back d/dress right back e
+    m_Weight: 1
+  - m_Path: chunli.qc_skeleton/rootTransform/bip_pelvis/dress right back a/dress
+      right back b/dress right back c/dress right back d/dress right back e/dress
+      right back f
+    m_Weight: 1
+  - m_Path: chunli.qc_skeleton/rootTransform/bip_pelvis/dress right back a/dress
+      right back b/dress right back c/dress right back d/dress right back e/dress
+      right back f/dress right back f_end
+    m_Weight: 1
+  - m_Path: chunli.qc_skeleton/rootTransform/bip_pelvis/dress right front 2a
+    m_Weight: 1
+  - m_Path: chunli.qc_skeleton/rootTransform/bip_pelvis/dress right front 2a/dress
+      right front 2b
+    m_Weight: 1
+  - m_Path: chunli.qc_skeleton/rootTransform/bip_pelvis/dress right front 2a/dress
+      right front 2b/dress right front 2c
+    m_Weight: 1
+  - m_Path: chunli.qc_skeleton/rootTransform/bip_pelvis/dress right front 2a/dress
+      right front 2b/dress right front 2c/dress right front 2d
+    m_Weight: 1
+  - m_Path: chunli.qc_skeleton/rootTransform/bip_pelvis/dress right front 2a/dress
+      right front 2b/dress right front 2c/dress right front 2d/dress right front
+      2e
+    m_Weight: 1
+  - m_Path: chunli.qc_skeleton/rootTransform/bip_pelvis/dress right front 2a/dress
+      right front 2b/dress right front 2c/dress right front 2d/dress right front
+      2e/dress right front 2e_end
+    m_Weight: 1
+  - m_Path: chunli.qc_skeleton/rootTransform/bip_pelvis/dress right front a
+    m_Weight: 1
+  - m_Path: chunli.qc_skeleton/rootTransform/bip_pelvis/dress right front a/dress
+      right front b
+    m_Weight: 1
+  - m_Path: chunli.qc_skeleton/rootTransform/bip_pelvis/dress right front a/dress
+      right front b/dress right front c
+    m_Weight: 1
+  - m_Path: chunli.qc_skeleton/rootTransform/bip_pelvis/dress right front a/dress
+      right front b/dress right front c/dress right front d
+    m_Weight: 1
+  - m_Path: chunli.qc_skeleton/rootTransform/bip_pelvis/dress right front a/dress
+      right front b/dress right front c/dress right front d/dress right front e
+    m_Weight: 1
+  - m_Path: chunli.qc_skeleton/rootTransform/bip_pelvis/dress right front a/dress
+      right front b/dress right front c/dress right front d/dress right front e/dress
+      right front e_end
+    m_Weight: 1
+  - m_Path: chunli_body1_model0
+    m_Weight: 1
+  - m_Path: Lamp
+    m_Weight: 0
+  - m_Path: VTA vertices
+    m_Weight: 0

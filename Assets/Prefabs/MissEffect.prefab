@@ -11,7 +11,7 @@ GameObject:
   - component: {fileID: 127831449346630497}
   - component: {fileID: 127831449346630502}
   - component: {fileID: 127831449346630503}
-  m_Layer: 0
+  m_Layer: 5
   m_Name: MissEffect
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -110,7 +110,7 @@ GameObject:
   - component: {fileID: 127831449530714622}
   - component: {fileID: 127831449530714616}
   - component: {fileID: 127831449530714617}
-  m_Layer: 0
+  m_Layer: 5
   m_Name: Particle System (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4918,7 +4918,7 @@ ParticleSystemRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: e823cd5b5d27c0f4b8256e7c12ee3e6d, type: 2}
+  - {fileID: 2100000, guid: e98a56c94877757469ada537eaa187b8, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0

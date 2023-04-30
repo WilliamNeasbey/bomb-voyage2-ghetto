@@ -6,6 +6,9 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
+    path: Assets/Scenes/IntroVSLuffy.unity
+    guid: 6902e3135677ef247a537752c91f6426
+  - enabled: 1
     path: Assets/Scenes/IntroVSAlexKidd.unity
     guid: 8101c8de940e71645b22a6a8c5bd56ea
   - enabled: 1
@@ -14,7 +17,4 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/OnePieceDance.unity
     guid: 95a823231617e8a41b34b60682c6a8cb
-  - enabled: 1
-    path: Assets/Scenes/IntroVSLuffy.unity
-    guid: 6902e3135677ef247a537752c91f6426
   m_configObjects: {}

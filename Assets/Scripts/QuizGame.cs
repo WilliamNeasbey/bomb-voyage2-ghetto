@@ -22,8 +22,8 @@ public class QuizGame : MonoBehaviour
         { "What year did the best dragon ball film Dragonball Evolution realease?", "2009", "2007", "2008", "2006" },
         { "What was Soulja Boy's first song?", "Crank That", "Kiss Me Thru the Phone", "Booty Meat", "California Gurls" },
         { "Who was involved in a helicopter crash in 2020?", "Kobe Bryant", "Snoop Dogg", "Barack Obama", "Will Smith" },
-        { "Who voiced Oscar in the hit dreamworks theme Sharktale?", "Giraffe", "Elephant", "Horse", "Rhino" },
-        { "What is the largest desert in the world?", "Sahara", "Gobi", "Atacama", "Arabian" }
+        { "Who voiced Oscar in the hit dreamworks movie Sharktale?", "Will Smith", "Micheal Jordan", "kevin hart", "Chris Rock" },
+        { "How tall is Snoop Dogg?", "6 feet 4 inches", "5 feet 11 inches", "6 feet 1 inches", "5 feet 3 inches" }
     };
 
     private int questionIndex = 0;
@@ -64,9 +64,13 @@ public class QuizGame : MonoBehaviour
 
     public void AnswerQuestion(int index)
     {
-        if (answerButtons[index].GetComponentInChildren<TMP_Text>().text == questions[questionIndex, 1])
+        for (int i = 1; i <= 4; i++)
         {
-            correctAnswers++;
+            if (answerButtons[index].GetComponentInChildren<TMP_Text>().text == questions[questionIndex, i])
+            {
+                correctAnswers++;
+                break;
+            }
         }
 
         questionIndex++;

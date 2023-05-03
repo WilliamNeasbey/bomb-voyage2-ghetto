@@ -74,11 +74,11 @@ public class RockPaperScissors : MonoBehaviour
     {
         if (Player1Wins >= 25)
         {
-            SceneManager.LoadScene("BeatKendrick");
+            SceneManager.LoadScene("AlexKiddWin");
         }
         if (Player2Wins >= 25)
         {
-            SceneManager.LoadScene("LoseScene");
+            SceneManager.LoadScene("AlexKiddLose");
         }
     }
 }

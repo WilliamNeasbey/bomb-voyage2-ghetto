@@ -8,7 +8,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/NewMainMenu.unity
     guid: 4e86343f3b0dfc343a0497322c1e163b
-  - enabled: 0
+  - enabled: 1
     path: Assets/Scenes/IntroVSLuffy.unity
     guid: 6902e3135677ef247a537752c91f6426
   - enabled: 1
@@ -17,10 +17,10 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/VSAlexKidd.unity
     guid: a93d5303857a7a543ae44288d61c5a88
-  - enabled: 0
+  - enabled: 1
     path: Assets/Scenes/OnePieceDance.unity
     guid: 95a823231617e8a41b34b60682c6a8cb
-  - enabled: 0
+  - enabled: 1
     path: Assets/Scenes/MinecraftParkour.unity
     guid: a1e6608bc0bad7844960426cfd44c79e
   - enabled: 1
@@ -35,4 +35,10 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/IntroVSTravisScott.unity
     guid: d9d36a64536a918409b5f546be8204b0
+  - enabled: 1
+    path: Assets/Scenes/MissionSelect.unity
+    guid: 58d943f45e4758b4b871adf60f557479
+  - enabled: 1
+    path: Assets/Scenes/StripClub.unity
+    guid: be861a4fe8dea3a4a8cbd913ba0da257
   m_configObjects: {}

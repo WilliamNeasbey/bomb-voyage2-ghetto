@@ -90,7 +90,7 @@ public class QuizGame : MonoBehaviour
     void ShowResult()
     {
         quizPanel.SetActive(false); // Disable the quiz panel
-        Background.SetActive(false); 
+        Background.SetActive(false);
         resultPanel.SetActive(true); // Enable the result panel
         resultText.text = "You got " + correctAnswers + " out of 10 questions correct.";
 

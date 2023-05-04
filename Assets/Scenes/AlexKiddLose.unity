@@ -26179,7 +26179,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a18395b783efb9d4c8b70210af07f717, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  sceneName: VSAlexKidd
+  sceneName: NewMainMenu
 --- !u!114 &1493755393
 MonoBehaviour:
   m_ObjectHideFlags: 0

@@ -44,4 +44,10 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/IntroVSMinecraft.unity
     guid: ad390773ea147cf419dd277edacc07b9
+  - enabled: 1
+    path: Assets/Scenes/MinecraftWin.unity
+    guid: be605ed0230464c40b969edd68061f3e
+  - enabled: 1
+    path: Assets/Scenes/MinecraftLose.unity
+    guid: f7f7235b8b47f4f4f98ec6bd5a1addee
   m_configObjects: {}

@@ -68,11 +68,11 @@ public class TimerMinecraftParkour : MonoBehaviour
         // Load the appropriate scene based on whether the player reached the finish line
         if (hasFinished)
         {
-            SceneManager.LoadScene("VSAlexKidd");
+            SceneManager.LoadScene("MinecraftWin");
         }
         else
         {
-            SceneManager.LoadScene("OnePieceDance");
+            SceneManager.LoadScene("MinecraftLose");
         }
     }
 }
